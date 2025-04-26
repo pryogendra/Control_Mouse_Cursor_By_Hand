@@ -30,20 +30,25 @@ Steps
 
     bash
 
-git clone https://github.com/pryogendra/Control_Mouse_Cursor_By_Hand.git
-cd Control_Mouse_Cussor_By_Hand
+    git clone https://github.com/pryogendra/Control_Mouse_Cursor_By_Hand.git
+    cd Control_Mouse_Cussor_By_Hand
 
 Install the required packages:
 
 bash
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Run the program:
 
 bash
 
     python3 main.py
+
+Screenshots :
+
+![Screenshot From 2025-04-26 18-37-58](https://github.com/user-attachments/assets/d302c55c-08ba-4095-a00a-42a7b7a1f934)
+
 
 Usage
 
@@ -69,9 +74,6 @@ Contributions are welcome! If you have ideas for improvement or find bugs, feel 
     Push to the branch (git push origin feature-branch).
     Open a pull request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgements
 
     Thanks to the OpenCV and NumPy communities for their fantastic libraries.
